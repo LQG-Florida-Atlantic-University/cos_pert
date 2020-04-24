@@ -11,3 +11,5 @@
    - "hamd.wl" contains the first order discrete Hamiltonian.
    - "clo.wl" contains the first order discrete closure constraints.
    - "Nshiftd.wl" contains the first order discrete shift vectors.
+   
+4. "comparison.wl" computes the continuum limit of EoMs of perturbations and compares the result with EoMs from the system of classical Gravity coupled to dust.  
