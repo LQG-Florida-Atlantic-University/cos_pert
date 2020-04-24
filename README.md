@@ -5,6 +5,7 @@
 2. "Hc.wl" contains the continuum limit of <img src="/tex/d018a8c9d49bd17f8a92f9f17e523b6c.svg?invert_in_darkmode&sanitize=true" align=middle width=24.419810249999994pt height=22.465723500000017pt/>.
 
 3. "data.zip" contains the following useful data:
+
    -"hamcon.wl" contains the continumm limit of the second order Hamiltonian.
    -"gauss.wl" contains the first order continumm Gauss constraint.
    -"hamd.wl" contains the first order discrete Hamiltonian.
