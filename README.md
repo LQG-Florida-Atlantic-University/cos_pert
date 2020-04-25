@@ -14,4 +14,4 @@
    
 4. "continuum_limit.nb" computes the continuum limit of EoMs of perturbations and compares the result with EoMs from the system of classical Gravity coupled to dust.  
 
-4. "late_time_tensor.nb" computes the limit of late time EoMs of perturbations where one can find the dispersion relation of tensor modes.
+4. "late_time_tensor.nb" computes the limit of late time EoMs of perturbations where one can find the late time dispersion relation of the tensor mode.
